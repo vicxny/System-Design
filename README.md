@@ -3,7 +3,7 @@
 
 
 ## Websites
-[](https://designgurus.org/course/grokking-the-system-design-interview)
+[Grokking the System Design Interview](https://designgurus.org/course/grokking-the-system-design-interview)
 
 
 ## Videos
