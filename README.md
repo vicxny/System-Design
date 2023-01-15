@@ -1,5 +1,7 @@
 # System-Design
 
+[System Design](https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1)
+
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## Courses
