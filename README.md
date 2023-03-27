@@ -23,3 +23,5 @@
 ## Videos
 
 [MIT 6.033 Computer System Engineering, Spring 2005](https://www.youtube.com/playlist?list=PL6535748F59DCA484)
+
+[Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
