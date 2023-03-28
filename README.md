@@ -1,5 +1,7 @@
 # System-Design
 
+[](https://www.youtube.com/watch?v=i53Gi_K3o7I)
+
 [The complete guide to the System Design Interview in 2023](https://www.educative.io/blog/complete-guide-system-design-interview?aff=xmg1)
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
