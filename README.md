@@ -26,6 +26,6 @@
 
 [MIT 6.033 Computer System Engineering, Spring 2005](https://www.youtube.com/playlist?list=PL6535748F59DCA484)
 
-[Harvard Web Development series CS-75 Building Dynamic Webs](https://www.youtube.com/playlist?list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE)-[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
+[Harvard Web Development series CS-75 Building Dynamic Webs](https://www.youtube.com/playlist?list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE)-[CS75 (Summer 2012) Lecture 9 Scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
 [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
